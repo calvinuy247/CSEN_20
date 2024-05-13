@@ -1,0 +1,2 @@
+Lab 1: The purpose of this lab is merely to get acquainted with the workspace environment, how to compile the main program (Lab1A-Main.c), assemble the assembly language file (Lab1A-Calculator.s) that contains functions called by the main program, link them together with the run-time library (library.a) to create
+an the executable image file (output.bin), and transfer it to the single-board computer. 
